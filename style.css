@@ -115,6 +115,10 @@ header {
     background-color: red;
 }
 
+.banner-img{
+    position: relative;
+}
+
 #red-round {
     background-color: red;
     border-radius: 100%;
